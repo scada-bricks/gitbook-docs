@@ -46,8 +46,8 @@ The example is a basic example that fetches real-time data from a Siemens OPC XM
       <td style="text-align:left">The lowest level brick in this example is a real-time-scada interface,
         which can be configured to communicate with multiple OPC XML DA interfaces.
         This is configured via a centralised config service to communicate with
-        1 or more wind turbine OPC XML DA endpoints. In practice, this may be close
-        to the datasource on a remote server (more commonly), or in the cloud.</td>
+        1 or more wind turbine OPC XML DA endpoints. In practice, this would commonly
+        be close to the datasource on a remote server, but can also be in the cloud.</td>
     </tr>
     <tr>
       <td style="text-align:left">Standard tag translator</td>
