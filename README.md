@@ -1,8 +1,8 @@
 ---
 description: >-
   This project is an open source, language and platform agnostic SCADA toolset. 
-  It has been developed for the renewables industry, to collect, store and
-  analyse time series data.
+  Developed initially for the renewables industry, but applicable anywhere to
+  collect, store and analyse time series data.
 ---
 
 # SCADA Bricks - the open SCADA project
