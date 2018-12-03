@@ -35,5 +35,7 @@ Linux based containers are preferred, but windows images are also supported
 
 ## License and pricing
 
-Everything in the core project is licensed under an MIT license \(basically do with it what you want\).  Other parties are welcome to offer paid modules, or fees for consultancy for setup of SCADA bricks.
+Everything in the core project is licensed under an MIT license, and therefore use is free of charge.  Other parties are welcome to offer paid modules, or fees for consultancy for setup of SCADA bricks.
+
+However, the spirit of the project is to give back as much as possible so we all benefit.  So please get in touch if you have modules you would like to contribute, or you would otherwise like to be involved.
 
