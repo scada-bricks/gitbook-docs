@@ -13,7 +13,7 @@ The above words are all used interchangeably to describe a single piece of the f
 
 ### Dataset
 
-Dataset is a generic term used to partition and namespace data.  It is assumed that all tag and device names are unique within a dataset.  A dataset usually relates to a type of data at specific site, and the name would usually include the site name plus the data type name, e.g. **london-array-wind-farm-siemens-scada**.   However, sometimes due to the nature of the source data, datasets can be more granular, and cover different parts of the system etc.  Additionally, translator/consolidator services may combine / split datasets for consumption further upstream.
+Dataset is a generic term used to partition and namespace data.  It is assumed that all tag and device names are unique within a dataset, and datasets are unique across a SCADA Bricks system.  A dataset usually relates to a type of data at specific site, and the name would usually include the site name plus the data type name, e.g. **london-array-wind-farm-siemens-scada**.   However, sometimes due to the nature of the source data, datasets can be more granular, and cover different parts of the system etc.  Additionally, translator/consolidator services may combine / split datasets for consumption further upstream.
 
 ### Device
 
