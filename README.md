@@ -21,7 +21,7 @@ The following are some of the core functions:
 
 There is no "central service" or code base of any kind, everything is made up of individual modules.  Everything is replaceable and optional.  
 
-### "Batteries included but replaceable"
+### "Batteries included but removable"
 
 This project follows the above philosophy \(credit to Docker\).  Getting started should be quick and easy, but any part of the system can be replaced using any language or technology.
 
