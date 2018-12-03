@@ -19,7 +19,11 @@ The following are some of the core functions:
 * Standardised cloud storage
 * Industry specific data analysis modules and dashboards
 
-There is no "central service" or code base of any kind, everything is made up of individual modules.  Everything is replaceable and optional.  However, we live by the philosophy **batteries included buy replaceable** \(credit to Docker\).  Getting started should be quick and easy.
+There is no "central service" or code base of any kind, everything is made up of individual modules.  Everything is replaceable and optional.  
+
+### "Batteries included but replaceable"
+
+This project follows the above philosophy \(credit to Docker\).  Getting started should be quick and easy, but any part of the system can be replaced using any language or technology.
 
 ## Technology
 
