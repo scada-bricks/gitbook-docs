@@ -10,6 +10,6 @@
 ## Contracts
 
 * [Overview](contracts/overview.md)
-* [Real-time SCADA](contracts/untitled-1.md)
+* [Real-time SCADA](contracts/real-time-scada.md)
 * [Configurable Service](contracts/service.md)
 
