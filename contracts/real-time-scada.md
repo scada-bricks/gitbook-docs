@@ -43,7 +43,7 @@ The response contains the current value of the tag, and the exact time it was re
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="" path="" %}
+{% api-method method="post" host="/write?dataSet=\[dataSetName\]&device=\[device\]&tag=\[tagName\]" path="" %}
 {% api-method-summary %}
 write
 {% endapi-method-summary %}
@@ -55,7 +55,7 @@ write
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
+{% api-method-parameter name="value" type="string" required=false %}
 
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
