@@ -9,7 +9,7 @@ description: >-
 
 ## What is SCADA Bricks?
 
-SCADA Bricks is an entirely modular, open source framework, with modules focused on time series data acquisition, storage and analysis from a variety of devices.  
+SCADA Bricks is a **docker based**, modular, open source framework, with modules focused on time series data acquisition, storage and analysis from a variety of devices.  
 
 The following are some of the core functions:
 
